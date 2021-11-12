@@ -11,9 +11,9 @@
  <h1 align="center">💻Preparando o ambiente de desenvolvimento💻</h1>
  <h3> 
   Primeiramente iremos preparar o ambiente de desenvolvimento em seu PC:
-  <p> 1 - Para isso vamos começar instalando o Python e o editor de código PyCharm.</p>
-  <p> 2 - Links para baixar os softwares de desenvolvimento:<p/>
-  <p> https://www.python.org/ e https://www.jetbrains.com/pt-br/pycharm/download/ </p>
+  <br>1-Para isso vamos começar instalando o Python e o editor de código PyCharm.
+  <br>2-Links para baixar os softwares de desenvolvimento:
+  <br> https://www.python.org/ e https://www.jetbrains.com/pt-br/pycharm/download/ 
  </h3>
  
   ######################################################################################################
