@@ -4,5 +4,8 @@
 <h2> 
   Esse projeto tem como objetivo desenvolver uma calculadora de cálculo de  pintura , onde você informa a largura e profundidade do cômodo,
   e ele vai calcular a área das paredes dos teto e vai dizer o quanto de  tinta você precisa para pintar esse comôdo neste projeto iremos fazer com 15 metros.
-  
-</h2> 
+ </h2> 
+ 
+ ######################################################################################################
+ 
+ <h2> </h2>
