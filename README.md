@@ -1,5 +1,5 @@
 
-<h1 align="center">🪀 Calculadora em Python 🪀</h1>
+<h1 align="center">🪀Calculadora em Python🪀</h1>
 <p align="center">Calculadora de pintura em python</p>
 <h2> 
   Esse projeto tem como objetivo desenvolver uma calculadora de cálculo de  pintura , onde você informa a largura e profundidade do cômodo,
