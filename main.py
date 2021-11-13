@@ -6,3 +6,6 @@ altura = 3
 profundidade = 2.9
 
 print(2 * (largura + profundidade) * altura)
+
+print('***********Calculo da área do teto************')
+print(largura * profundidade)
