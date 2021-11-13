@@ -1,1 +1,2 @@
 # Arquivo principal
+print('teste')
