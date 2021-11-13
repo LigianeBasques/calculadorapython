@@ -1,2 +1,1 @@
 # Arquivo principal
-print('teste')
