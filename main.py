@@ -9,5 +9,6 @@ area_paredes:float = (2*(largura + profundidade)*altura)
 area_teto:float = largura * profundidade
 
 print("A área das paredes é: ",area_paredes)
+print("A área do teto é: ",area_teto)
 
 
