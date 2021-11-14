@@ -21,5 +21,5 @@
  <h1 align="center">🔨Começando o projeto🔨</h1>
  <h3>1-No arquivo principal 'main' foram criados:
   <br> ✔️3 variáveis ;
-  <br> ✔️Calcula-se a área do teto e área das paredes do cômodo.
+  <br> ✔️Para calcular a área da paredes.
  </h3>
