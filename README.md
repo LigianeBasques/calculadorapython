@@ -10,7 +10,7 @@
  
  <h1 align="center">💻Preparando o ambiente de desenvolvimento💻</h1>
  <h3> 
-  Primeiramente iremos preparar o ambiente de desenvolvimento em seu PC:
+  1-Primeiramente iremos preparar o ambiente de desenvolvimento em seu PC:
   <br>✔️Para isso vamos começar instalando o Python e o editor de código PyCharm.
   <br>✔️Links para baixar os softwares de desenvolvimento:
   <br> https://www.python.org/ e https://www.jetbrains.com/pt-br/pycharm/download/ 
@@ -19,7 +19,7 @@
   ######################################################################################
   
  <h1 align="center">🔨Começando o projeto🔨</h1>
- <h3>No arquivo principal main foram criados:
+ <h3>1-No arquivo principal 'main' foram criados:
   <br> ✔️3 variáveis ;
   <br> ✔️Calcula-se a área do teto e área das paredes do cômodo.
  </h3>
