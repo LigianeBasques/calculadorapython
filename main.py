@@ -6,6 +6,7 @@ largura: float = float(input('Qual a largura do cômodo? '))
 altura: float = float(input('Qual a profundidade do cômodo? '))
 profundidade: float = 2.9
 area_paredes:float = (2*(largura + profundidade)*altura)
+area_teto:float = largura * profundidade
 
 print("A área das paredes é: ",area_paredes)
 
