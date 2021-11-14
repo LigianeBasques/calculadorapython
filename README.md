@@ -19,7 +19,9 @@
   ######################################################################################
   
  <h1 align="center">🔨Começando o projeto🔨</h1>
- <h3>1-No arquivo principal 'main' foram criados:
+ <h3>1-No arquivo principal 'main' temos:
   <br> ✔️3 variáveis ;
   <br> ✔️Inputs do usuário.
+  <br> ✔️Realizar os cálculos.
+  <br> ✔️Orientação a objetos.
  </h3>
