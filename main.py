@@ -1,6 +1,6 @@
 # Arquivo principal
 #Type Hint é um mecanismo do Python 3 através do qual podemos dar uma dica sobre o tipo de uma variável.
-print('***********Calculo da área das paredes de um cômodo************')
+print('***********Inputs do usuário************')
 
 largura: float = float(input('Qual a largura do cômodo? '))
 altura: float = float(input('Qual a profundidade do cômodo? '))
