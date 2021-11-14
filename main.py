@@ -9,3 +9,7 @@ print(2 * (largura + profundidade) * altura)
 
 print('***********Calculo da área do teto************')
 print(largura * profundidade)
+
+print('***********inputs do usuário************')
+
+
