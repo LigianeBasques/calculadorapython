@@ -19,3 +19,7 @@
   ######################################################################################
   
  <h1 align="center">🔨Começando o projeto🔨</h1>
+ <h3>No arquivo principal main foi criado:
+  <br> 3 variaveis ;
+  <br> 
+ </h3>
