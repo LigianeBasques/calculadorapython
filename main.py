@@ -11,7 +11,7 @@ profundidade: float = 2.9
 
 calc.area_paredes:float = (2*(largura + profundidade)*altura)
 calc.area_teto:float = largura * profundidade
-litragem:float = (area_paredes + area_teto) / 10
+litragem:float = (calc.area_paredes + calc.area_teto) / 10
 
 print("A área das paredes é: ",calc.area_paredes)
 print("A área do teto é: ",calc.area_teto)
