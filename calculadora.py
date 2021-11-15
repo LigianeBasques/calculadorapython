@@ -1,3 +1,4 @@
-#calculadora em python
+#Arquivo calculadora
 
-print('*****Calculadora em Python*******')
+print('*****Orientação a objetos*******')
+
