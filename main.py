@@ -15,7 +15,7 @@ litragem:float = (calc.area_paredes + calc.area_teto) / 10
 
 print("A área das paredes é: ",calc.area_paredes)
 print("A área do teto é: ",calc.area_teto)
-print("A litragem de tinta necessária é: ",area_teto)
+print("A litragem de tinta necessária é: ",calc.area_teto)
 
 
 
