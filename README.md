@@ -7,7 +7,7 @@
   e ele vai calcular a área das paredes dos teto e vai dizer o quanto de  tinta você precisa para pintar esse comôdo, neste projeto iremos fazer com 15 metros.
  </h3> 
  
- #########################################################################################
+ #######################################################################################
  
  <h1 align="center">💻Preparando o ambiente de desenvolvimento💻</h1>
  <h3> 
@@ -16,7 +16,7 @@
   <br>✔️Links para baixar os softwares de desenvolvimento:
   <br> https://www.python.org/ e https://www.jetbrains.com/pt-br/pycharm/download/ 
  </h3>
-  ######################################################################################################
+ #######################################################################################
   
  <h1 align="center">🔨Começando o projeto🔨</h1>
  <h3>1-No arquivo principal 'main' temos:
