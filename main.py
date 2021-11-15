@@ -14,3 +14,4 @@ print("A área do teto é: ",area_teto)
 print("A litragem de tinta necessária é: ",area_teto)
 
 
+
