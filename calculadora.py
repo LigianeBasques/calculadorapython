@@ -2,3 +2,6 @@
 
 print('*****Orientação a objetos*******')
 
+class Calculadora:
+
+
