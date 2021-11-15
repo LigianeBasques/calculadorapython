@@ -20,7 +20,7 @@
   
  <h1 align="center">🔨Começando o projeto🔨</h1>
  <h3>1-Metodologia ágil Scrum:
- <h3>1-No principal 'main' temos:
+ <h3>2-No principal 'main' temos:
   <br> ✔️3 variáveis ;
   <br> ✔️Inputs do usuário.
   <br> ✔️Realizar os cálculos.
