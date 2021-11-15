@@ -20,7 +20,10 @@
   
  <h1 align="center">🔨Começando o projeto🔨</h1>
  <h3>1-Metodologia ágil Scrum:
- <h3>2-No principal 'main' temos:
+  <br> ✔️Boas práticas utlilizadas em gerenciamento de projetos ;
+  <br> ✔️Torna os processos mais simples e claros.
+  
+ <h3>2-No arquivo 'main' temos:
   <br> ✔️3 variáveis ;
   <br> ✔️Inputs do usuário.
   <br> ✔️Realizar os cálculos.
