@@ -22,7 +22,7 @@
  <h3>1-Metodologia ágil Scrum:
   <br> ✔️Boas práticas utlilizadas em gerenciamento de projetos ;
   <br> ✔️Torna os processos mais simples e claros.
-  
+  <img align="center" src=""/>
   
  <h3>2-No arquivo 'main' temos:
   <br> ✔️3 variáveis ;
