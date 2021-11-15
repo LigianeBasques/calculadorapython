@@ -28,7 +28,7 @@
   <br> ✔️3 variáveis ;
   <br> ✔️Inputs do usuário.
   <br> ✔️Realizar os cálculos.
-  <h3>2-No arquivo 'calculadora' temos:
+  <h3>3-No arquivo 'calculadora' temos:
   <br> ✔️Orientação a objetos.
   
  </h3>
