@@ -15,6 +15,7 @@ class Calculadora:
         return self.area_teto
 
     def calcular_litragem_necessaria(self):
+        return (self.area_paredes + self.area_teto)
 
 
 
