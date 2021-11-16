@@ -11,7 +11,7 @@ profundidade: float = 2.9
 
 
 print("A área das paredes é: ",calc.calcular_area_paredes(largura,profundidade,altura))
-print("A área do teto é: ",calcular_area_teto(altura,profundidade))
+print("A área do teto é: ",calcular_area_teto(largura,profundidade))
 print("A litragem de tinta necessária é: ",calc.calcular_litragem_necessaria())
 
 
