@@ -10,12 +10,13 @@ altura: float = float(input('Qual a profundidade do cômodo? '))
 profundidade: float = 2.9
 
 #calc.area_paredes:float = 2*(largura + profundidade)*altura
-calc.area_teto:float = largura * profundidade
-litragem:float = (calc.area_paredes + calc.area_teto) / 10
+
+
 
 print("A área das paredes é: ",calc.calcular_area_paredes(largura,profundidade,altura))
+calc.area_teto:float = largura * profundidade
 print("A área do teto é: ",calc.area_teto)
-print("A litragem de tinta necessária é: ",calc.area_teto)
+print("A litragem de tinta necessária é: ",(calc.area_paredes + calc.area_teto)/10)
 
 
 
