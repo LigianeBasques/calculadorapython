@@ -9,6 +9,8 @@ class Calculadora:
     def calcular_area_paredes(self,largura,profundidade,altura):
         self.area_paredes = 2 * (largura + profundidade) * altura
         return self.area_paredes
+    def calcular_area_teto(self,largura,profundidade):
+
 
 
 
